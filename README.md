@@ -5,7 +5,7 @@
 - 🤝 Open to collaborating on data projects to improve and grow
 - 📫 Reach me at: [sekinateniola.jimoh@gmail.com](mailto:sekinateniola.jimoh@gmail,com)
 - 😄 Pronouns: she/her
-
+-    Check out my [Power BI Healthcare Dashboard Projects](https://github.com/S-Jimoh/powerbi-healthcare-dashboard)
 
 <!---
 S-Jimoh/S-Jimoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
